@@ -5,7 +5,7 @@ padding:0;
 img .banner {
  width:100%;
  background-size:cover;
- height:200px;
+ height:100px;
 }
 .container {
  position: relative;
