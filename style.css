@@ -4,7 +4,7 @@ body, html {
 
 .container {
  background-img:url("pattern.jpeg");
- height: 30%;
+ height: 50%;
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
