@@ -8,8 +8,8 @@ body, html {
   }
 .centered {
   position: absolute;
-  font-size:2vw;
-  text-align:center;	
+  font-size:3vw;
+  text-align: center;	
   font-weight: bold;
   color:#DAA520;	
  }
