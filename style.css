@@ -9,7 +9,7 @@ body, html {
 .centered {
   position: absolute;
   font-size:3vw;
-  text-align: center;	
+  text-align: right;	
   font-weight: bold;
   color:#DAA520;	
  }
