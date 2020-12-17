@@ -16,15 +16,18 @@ body, html {
 
 h3.green {
 background-color:green;
-padding:5px;	
+padding:5px;
+margin:5px;	
 }
 h3.red {
 background-color:red;
 padding:5px;
+margin:5px;	
 }
 h3.blue {
 background-color:blue;
-padding:5px;	
+padding:5px;
+margin:5px;	
 }
 p span{
   color:blue;
