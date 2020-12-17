@@ -16,9 +16,7 @@ body, html {
 
 nav a:link, a:visited {
 text-decoration:none;
-background-color:green;	
-color:white;
-	
+color:green;
 }
 article {
 padding:5px;
