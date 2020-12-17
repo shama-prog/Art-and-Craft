@@ -13,7 +13,14 @@ body, html {
   font-weight: bold;
   color:#DAA520;	
  }
-
+nav a:link a:visited{
+background-color:green;
+display:inline-block;
+text-decoration:none;
+text-align:center;
+color:white;
+padding:14px 25px;	
+}	
 h3.green {
 background-color:green;
 padding:5px;
