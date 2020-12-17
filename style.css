@@ -9,7 +9,7 @@ body, html {
 .centered {
   position: absolute;
  }
-h1 heading {
+h1.heading {
 font-size:10vw;
 font-weight: bold;
 color:golden;	
