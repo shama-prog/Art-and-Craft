@@ -8,8 +8,12 @@ body, html {
   }
 .centered {
   position: absolute;
-  color:golden;
  }
+h1 heading {
+font-size:10vw;
+font-weight: bold;
+color:golden;	
+}
 h3.green {
 background-color:green;
 }
