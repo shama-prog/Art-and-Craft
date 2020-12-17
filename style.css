@@ -8,12 +8,11 @@ body, html {
   }
 .centered {
   position: absolute;
+  font-size:5vw;
+  font-weight: bold;
+  color:#DAA520;	
  }
-.centered h1{
-font-size:5vw;
-font-weight: bold;
-color:#DAA520;	
-}
+
 h3.green {
 background-color:green;
 padding:5px;	
