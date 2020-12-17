@@ -10,9 +10,10 @@ body, html {
   position: absolute;
  }
 h1.heading {
+padding:-10px;	
 font-size:10vw;
 font-weight: bold;
-color:golden;	
+color:#DAA520;	
 }
 h3.green {
 background-color:green;
