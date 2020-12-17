@@ -9,7 +9,7 @@ body, html {
 .centered {
   position: absolute;
  }
-.centered .heading {
+.centered h1{
 font-size:8vw;
 font-weight: bold;
 color:#DAA520;	
