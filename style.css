@@ -15,10 +15,10 @@ body, html {
  }
 
 nav a:link, a:visited {
-background-color:green;
 text-decoration:none;
+background-color:green;	
 color:white;
-padding:14px 18px;	
+	
 }
 article {
 padding:5px;	
