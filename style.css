@@ -13,12 +13,16 @@ body, html {
   font-weight: bold;
   color:#DAA520;	
  }
- a:link, a:visited{
+
+nav a:link, a:visited {
 background-color:green;
 text-decoration:none;
 color:white;
 padding:14px 18px;	
-}	
+}
+article {
+padding:5px;	
+}
 h3.green {
 background-color:green;
 padding:5px;
