@@ -13,7 +13,7 @@ body, html {
   font-weight: bold;
   color:#DAA520;	
  }
-nav a:link, a:visited{
+ a:link, a:visited{
 background-color:green;
 text-decoration:none;
 color:white;
