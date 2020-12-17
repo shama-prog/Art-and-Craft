@@ -13,10 +13,9 @@ body, html {
   font-weight: bold;
   color:#DAA520;	
  }
-nav a:link a:visited{
+nav a:link, a:visited{
 background-color:green;
 text-decoration:none;
-text-align:center;
 color:white;
 padding:14px 18px;	
 }	
