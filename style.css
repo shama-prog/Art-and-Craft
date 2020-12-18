@@ -8,8 +8,8 @@ body, html {
   }
 .centered {
   position: absolute;
-  font-size:3vw;
-  text-align: right;	
+  font-size:100px;
+  text-align: center;	
   font-weight: bold;
   color:#DAA520;	
  }
@@ -39,8 +39,12 @@ margin:5px;
 }
 p span{
   color:blue;
+  font-weight:bold;	
 }
 h4 {
 font-weight:bold;
 font-family: "Times New Roman", Times, serif;	
+}
+footer{
+text-align:center;	
 }
