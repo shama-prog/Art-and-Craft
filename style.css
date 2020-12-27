@@ -13,7 +13,8 @@ body, html {
   text-align: center;	
   font-weight: bold;
   color:#DAA520;
-   top: -20px;
+   top: 0px;
+   left:0;
  }
 
 nav a:link, a:visited {
