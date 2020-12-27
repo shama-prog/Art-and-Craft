@@ -1,9 +1,10 @@
 body, html {
    font-family: 'Oswald', sans-sarif;
-	background:#D3D3D3;
-}
+   background:#D3D3D3;
+   }
 .container {
  height:200px;
+ position: relative;	
  overflow:hidden;   
   }
 .centered {
